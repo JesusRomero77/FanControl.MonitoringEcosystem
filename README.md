@@ -1,6 +1,6 @@
 # FanControl.MonitoringEcosystem
 
-A set of tools to **monitor and log** [FanControl](https://github.com/Rem0o/FanControl.Releases) sensors and fan controls, locally and over the network: three FanControl plugins and one portable companion app.
+An **ecosystem** of tools to **monitor and log** [FanControl](https://github.com/Rem0o/FanControl.Releases) sensors and fan controls, locally and over the network: three FanControl plugins and one portable companion app that ties them together.
 
 > **Monitoring only.** None of these tools sends commands to FanControl or changes any fan speed. Remote sensors must never be used in curves or controls.
 
