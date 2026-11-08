@@ -36,7 +36,7 @@ This repository contains no code or binaries. Each component has its own reposit
 | FanControl.RemoteSensors | 2.0 |
 | FanControl.WatchTower | 1.0 |
 
-DataServer and RemoteSensors 2.0 work together, and WatchTower 1.0 needs these versions. Tested with FanControl <VERSION>.
+DataServer and RemoteSensors 2.0 work together, and WatchTower 1.0 needs these versions. Tested with FanControl v273 and later.
 
 ## Requirements
 
